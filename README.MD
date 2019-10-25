@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img height="239px" width="630px" style="text-align: center;" 
+  <img alt="/assets/Pagina principal - nuevo estilo 3.png" width="256px" style="text-align: center;" 
   src="/assets/Pagina principal - nuevo estilo 3.png">
 </p>
 
