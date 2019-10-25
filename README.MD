@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img height="256px" width="256px" style="text-align: center;" 
+  <img height="256px" width="full" style="text-align: center;" 
   src="/assets/Pagina principal - nuevo estilo 3.png">
 </p>
 
